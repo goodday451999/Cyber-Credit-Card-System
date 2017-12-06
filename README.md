@@ -14,4 +14,4 @@ To use the application:
 4 - Enter transaction details.
 5 - Enter Pin to confirm.
 
-This was a group project, contributed by kartikmadaan, goodday451999 and 2 others(Nishant Malik, Rakshit Chaudhary)
+This was a group project, contributed by Kartik Madaan, Sudhanshu Shakya(sud0lancer), Nilotpal Pramanik(goodday451999), Nishant Malik and Rakshit Chaudhary.
